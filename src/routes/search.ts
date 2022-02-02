@@ -44,52 +44,54 @@ router.get("/", async (req: express.Request, res: express.Response) => {
                 .createReadStream();
               fileStream.pipe(res);
             } else {
-              await twitterClient.v2
-                .userTimeline(user.data.id, {
-                  exclude: ["replies", "retweets"],
-                })
-                .then((response) => {
-                  let all_tweets = response.data.data;
-                  let formated_tweets = "";
-                  all_tweets.forEach(
-                    (tweet: any) => (formated_tweets += `${tweet.text}\n`)
-                  );
+              let all_tweets = [] as any;
+              let timeline = await twitterClient.v2.userTimeline(user.data.id, {
+                exclude: ["replies", "retweets"],
+              });
+              all_tweets = timeline.data.data;
+              while (!timeline.done) {
+                let fetchedTweets = await timeline.fetchNext();
+                all_tweets.push(fetchedTweets.data.data);
+              }
+              let formated_tweets = "";
+              all_tweets.forEach(
+                (tweet: any) => (formated_tweets += `${tweet.text}\n`)
+              );
 
-                  fs.writeFile(file_path, formated_tweets, (err: any) => {
-                    if (err) throw err;
-                    let fileStream = fs.createReadStream(`./${username}.txt`);
-                    fileStream.on("error", (err: any) => {
-                      console.log("File Error", err);
-                      res
-                        .json({ success: false, message: "File error" })
-                        .status(400);
-                    });
-
-                    let uploadParams = {
-                      Bucket: process.env.AWS_BUCKET_NAME,
-                      Key: "",
-                      Body: "",
-                    };
-                    uploadParams.Body = fileStream;
-                    uploadParams.Key = path.basename(`${username}.txt`);
-
-                    s3Client.upload(uploadParams, (err: any) => {
-                      if (err) throw err;
-                      const fileStream = s3Client
-                        .getObject(
-                          {
-                            Bucket: process.env.AWS_BUCKET_NAME,
-                            Key: `${username}.txt`,
-                          },
-                          (err) => {
-                            if (err) throw err;
-                          }
-                        )
-                        .createReadStream();
-                      fileStream.pipe(res);
-                    });
-                  });
+              fs.writeFile(file_path, formated_tweets, (err: any) => {
+                if (err) throw err;
+                let fileStream = fs.createReadStream(`./${username}.txt`);
+                fileStream.on("error", (err: any) => {
+                  console.log("File Error", err);
+                  res
+                    .json({ success: false, message: "File error" })
+                    .status(400);
                 });
+
+                let uploadParams = {
+                  Bucket: process.env.AWS_BUCKET_NAME,
+                  Key: "",
+                  Body: "",
+                };
+                uploadParams.Body = fileStream;
+                uploadParams.Key = path.basename(`${username}.txt`);
+
+                s3Client.upload(uploadParams, (err: any) => {
+                  if (err) throw err;
+                  const fileStream = s3Client
+                    .getObject(
+                      {
+                        Bucket: process.env.AWS_BUCKET_NAME,
+                        Key: `${username}.txt`,
+                      },
+                      (err) => {
+                        if (err) throw err;
+                      }
+                    )
+                    .createReadStream();
+                  fileStream.pipe(res);
+                });
+              });
             }
           }
         }

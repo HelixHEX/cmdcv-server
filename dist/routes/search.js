@@ -45,45 +45,47 @@ router.get("/", (req, res) => __awaiter(void 0, void 0, void 0, function* () {
                         fileStream.pipe(res);
                     }
                     else {
-                        yield twitterClient.v2
-                            .userTimeline(user.data.id, {
+                        let all_tweets = [];
+                        let timeline = yield twitterClient.v2.userTimeline(user.data.id, {
                             exclude: ["replies", "retweets"],
-                        })
-                            .then((response) => {
-                            let all_tweets = response.data.data;
-                            let formated_tweets = "";
-                            all_tweets.forEach((tweet) => (formated_tweets += `${tweet.text}\n`));
-                            fs.writeFile(file_path, formated_tweets, (err) => {
+                        });
+                        all_tweets = timeline.data.data;
+                        while (!timeline.done) {
+                            let fetchedTweets = yield timeline.fetchNext();
+                            all_tweets.push(fetchedTweets.data.data);
+                        }
+                        let formated_tweets = "";
+                        all_tweets.forEach((tweet) => (formated_tweets += `${tweet.text}\n`));
+                        fs.writeFile(file_path, formated_tweets, (err) => {
+                            if (err)
+                                throw err;
+                            let fileStream = fs.createReadStream(`./${username}.txt`);
+                            fileStream.on("error", (err) => {
+                                console.log("File Error", err);
+                                res
+                                    .json({ success: false, message: "File error" })
+                                    .status(400);
+                            });
+                            let uploadParams = {
+                                Bucket: process.env.AWS_BUCKET_NAME,
+                                Key: "",
+                                Body: "",
+                            };
+                            uploadParams.Body = fileStream;
+                            uploadParams.Key = path_1.default.basename(`${username}.txt`);
+                            s3Client.upload(uploadParams, (err) => {
                                 if (err)
                                     throw err;
-                                let fileStream = fs.createReadStream(`./${username}.txt`);
-                                fileStream.on("error", (err) => {
-                                    console.log("File Error", err);
-                                    res
-                                        .json({ success: false, message: "File error" })
-                                        .status(400);
-                                });
-                                let uploadParams = {
+                                const fileStream = s3Client
+                                    .getObject({
                                     Bucket: process.env.AWS_BUCKET_NAME,
-                                    Key: "",
-                                    Body: "",
-                                };
-                                uploadParams.Body = fileStream;
-                                uploadParams.Key = path_1.default.basename(`${username}.txt`);
-                                s3Client.upload(uploadParams, (err) => {
+                                    Key: `${username}.txt`,
+                                }, (err) => {
                                     if (err)
                                         throw err;
-                                    const fileStream = s3Client
-                                        .getObject({
-                                        Bucket: process.env.AWS_BUCKET_NAME,
-                                        Key: `${username}.txt`,
-                                    }, (err) => {
-                                        if (err)
-                                            throw err;
-                                    })
-                                        .createReadStream();
-                                    fileStream.pipe(res);
-                                });
+                                })
+                                    .createReadStream();
+                                fileStream.pipe(res);
                             });
                         });
                     }
