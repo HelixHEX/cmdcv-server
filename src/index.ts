@@ -13,6 +13,8 @@ import rateLimit from 'express-rate-limit'
 
 const main = () => {
   const app = express();
+  
+  app.use(cors({ origin: "*" }));
 
   const limiter = rateLimit({
     windowMs: 5 * 60 * 1000, // 15 minutes
@@ -25,7 +27,6 @@ const main = () => {
   app.use(limiter)
   app.use(morgan("dev"));
 
-  app.use(cors({ origin: "*" }));
 
   app.use(express.json());
 
