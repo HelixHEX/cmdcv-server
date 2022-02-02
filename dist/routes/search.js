@@ -8,6 +8,13 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
+var __asyncValues = (this && this.__asyncValues) || function (o) {
+    if (!Symbol.asyncIterator) throw new TypeError("Symbol.asyncIterator is not defined.");
+    var m = o[Symbol.asyncIterator], i;
+    return m ? m.call(o) : (o = typeof __values === "function" ? __values(o) : o[Symbol.iterator](), i = {}, verb("next"), verb("throw"), verb("return"), i[Symbol.asyncIterator] = function () { return this; }, i);
+    function verb(n) { i[n] = o[n] && function (v) { return new Promise(function (resolve, reject) { v = o[n](v), settle(resolve, reject, v.done, v.value); }); }; }
+    function settle(resolve, reject, d, v) { Promise.resolve(v).then(function(v) { resolve({ value: v, done: d }); }, reject); }
+};
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
@@ -28,6 +35,7 @@ router.get("/", (req, res) => __awaiter(void 0, void 0, void 0, function* () {
         if (user) {
             const file_path = `./${username}.txt`;
             yield s3Client.listObjects({ Bucket: process.env.AWS_BUCKET_NAME }, (err, objects) => __awaiter(void 0, void 0, void 0, function* () {
+                var e_1, _a;
                 if (err)
                     throw err;
                 if (objects && objects.Contents) {
@@ -45,18 +53,30 @@ router.get("/", (req, res) => __awaiter(void 0, void 0, void 0, function* () {
                         fileStream.pipe(res);
                     }
                     else {
-                        let all_tweets = [];
                         let timeline = yield twitterClient.v2.userTimeline(user.data.id, {
                             exclude: ["replies", "retweets"],
+                            expansions: [
+                                "attachments.media_keys",
+                                "attachments.poll_ids",
+                                "referenced_tweets.id",
+                            ],
+                            "media.fields": ["url"],
                         });
-                        all_tweets = timeline.data.data;
-                        while (!timeline.done) {
-                            let fetchedTweets = yield timeline.fetchNext();
-                            all_tweets.push(fetchedTweets.data.data);
-                        }
                         let formated_tweets = "";
-                        all_tweets.forEach((tweet) => (formated_tweets += `${tweet.text}\n`));
-                        fs.writeFile(file_path, formated_tweets, (err) => {
+                        try {
+                            for (var timeline_1 = __asyncValues(timeline), timeline_1_1; timeline_1_1 = yield timeline_1.next(), !timeline_1_1.done;) {
+                                const tweet = timeline_1_1.value;
+                                formated_tweets += `${tweet.text}\n`;
+                            }
+                        }
+                        catch (e_1_1) { e_1 = { error: e_1_1 }; }
+                        finally {
+                            try {
+                                if (timeline_1_1 && !timeline_1_1.done && (_a = timeline_1.return)) yield _a.call(timeline_1);
+                            }
+                            finally { if (e_1) throw e_1.error; }
+                        }
+                        fs.writeFile(file_path, formated_tweets, (err) => __awaiter(void 0, void 0, void 0, function* () {
                             if (err)
                                 throw err;
                             let fileStream = fs.createReadStream(`./${username}.txt`);
@@ -73,7 +93,7 @@ router.get("/", (req, res) => __awaiter(void 0, void 0, void 0, function* () {
                             };
                             uploadParams.Body = fileStream;
                             uploadParams.Key = path_1.default.basename(`${username}.txt`);
-                            s3Client.upload(uploadParams, (err) => {
+                            yield s3Client.upload(uploadParams, (err) => {
                                 if (err)
                                     throw err;
                                 const fileStream = s3Client
@@ -87,7 +107,7 @@ router.get("/", (req, res) => __awaiter(void 0, void 0, void 0, function* () {
                                     .createReadStream();
                                 fileStream.pipe(res);
                             });
-                        });
+                        }));
                     }
                 }
             }));

@@ -44,21 +44,23 @@ router.get("/", async (req: express.Request, res: express.Response) => {
                 .createReadStream();
               fileStream.pipe(res);
             } else {
-              let all_tweets = [] as any;
+          
               let timeline = await twitterClient.v2.userTimeline(user.data.id, {
                 exclude: ["replies", "retweets"],
+                expansions: [
+                  "attachments.media_keys",
+                  "attachments.poll_ids",
+                  "referenced_tweets.id",
+                ],
+                "media.fields": ["url"],
               });
-              all_tweets = timeline.data.data;
-              while (!timeline.done) {
-                let fetchedTweets = await timeline.fetchNext();
-                all_tweets.push(fetchedTweets.data.data);
-              }
               let formated_tweets = "";
-              all_tweets.forEach(
-                (tweet: any) => (formated_tweets += `${tweet.text}\n`)
-              );
 
-              fs.writeFile(file_path, formated_tweets, (err: any) => {
+              for await (const tweet of timeline) {
+                formated_tweets += `${tweet.text}\n`
+              }
+
+              fs.writeFile(file_path, formated_tweets, async (err: any) => {
                 if (err) throw err;
                 let fileStream = fs.createReadStream(`./${username}.txt`);
                 fileStream.on("error", (err: any) => {
@@ -76,7 +78,7 @@ router.get("/", async (req: express.Request, res: express.Response) => {
                 uploadParams.Body = fileStream;
                 uploadParams.Key = path.basename(`${username}.txt`);
 
-                s3Client.upload(uploadParams, (err: any) => {
+                await s3Client.upload(uploadParams, (err: any) => {
                   if (err) throw err;
                   const fileStream = s3Client
                     .getObject(

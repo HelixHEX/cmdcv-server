@@ -1,0 +1,1180 @@
+I think it's should be illegal to have more than one meeting in a day
+
+Can I get an amen?
+Currently checking out https://t.co/ZJL6JhqQSB
+Just listed my first domain for sale...sad to see it go 🥺🥲
+I dont like how this word looks...I've also been staring at it for like 10 mins while coding 😅 https://t.co/tUBTcSbGAx
+Time to go bury myself in a hole https://t.co/atirovDwXi
+Lol...just broke 10 months worth of code 😌
+Before and after....crazy how so much has changed in the past past 10 months. I'm excited for this years growth and changes. https://t.co/PdyQb3hrKa
+AHHHHH beta version for AstraCollab version 2 is live 😌....After months of development and outreach, I can't wait to fully release it to the public. I'll be working with a few of my users, to extensively test the new features. Other than that not much has changed besides the UI. https://t.co/I0PlajNviA
+Switching from AWS to heroku to save development costs...let's see how long before I break the prod servers 😅
+Good morning beautiful people of Twitter 🌞
+https://t.co/E412yepCcz???? Coming soon maybe???? https://t.co/dU3iMQR6aT
+5) Heroku (https://t.co/BIJ67o8i7W)
+
+This one's a bit more technical, but heroku is a hosting platform that supports most programming languages. I personally use heroku for most if not all, of my projects. 
+
+A few include:
+1. https://t.co/zOcx7LQHhT
+2. https://t.co/K9dtm8wkLK
+4) Softr io (https://t.co/JtsyrQ5ISg)
+
+Softr io is an easy to use, drag and drop website builder. With a ton of integrations, you don't need to outsource your developer needs.  I built https://t.co/SzEb0C4Q1i using https://t.co/JtsyrQ5ISg
+3) Bravo studio (https://t.co/9EnXILLJgi) 
+
+Using your figma designs, bravo turns your designs into mobile apps. With a simple to use UI, you can also connect to Airtable as a database for your app. I used bravo to build my personal portfolio app
+2) Nocodeapi (https://t.co/6pQy1uRBBC)
+
+Are you tired of reading confusing and complicated API documentation? Nocodeapi is a marketplace where they provide plug and play options for popular API's. I use nocodeapi as an endpoint proxy for all my API servers to make them secure.
+1) Airtable (https://t.co/pGYcLOLo62)
+
+If you're looking for a simple to use database, Airtable is a great solution. I currently use Airtable with https://t.co/SzEb0C4Q1i
+🧵 Here are 5 free little/no code tools I use on a daily basis. Most of these have a free plan which I still use to this day
+
+(With examples)
+Who usually has trouble trying to pick places to eat at with friends???
+Got a couple of things cooking for this new season 😌 https://t.co/vUEPgULUPi
+To a new year!!
+Hey @push_technology! Does your application work with react native?
+Hey! @sosedoff, im looking at your public opentable api and whenever I try to make a request it says "application error". Wanted to know if I could get some help on this. This is an example request I made that caused an error --&gt; "https://t.co/7QH44UklLB"
+Outage**
+Due to AWS shortage AstraCollab might be down for a few hours to ensure everything is running smoothly. Just going to be doing a systems check and make sure everything is running smoothly (can never be too safe)
+An actual email my professor sent out https://t.co/t11AnOMChq
+Somewhat beginner tutorial in react.js using @chakra_ui 
+https://t.co/yYX9hAgRXT
+https://t.co/MXD86ZnFyy
+@retromauro
+Just uploaded this gem 😌. It's a react tutorial on how to make a todo application. First tutorial and many more to come. 
+
+https://t.co/yYX9hAgRXT
+Thanks to @megancjack for coming to my little DJ session, hope you enjoyed it. Definitely going to do more sessions!
+Been a while since I've DJed 😌
+https://t.co/eAaxg55lmt
+Live DJing right now https://t.co/eAaxg55lmt
+Got a new client yesterday, so that's been exciting!
+Figma prototyping layout......fun.... https://t.co/60FJzbMHQt
+Proud of this 😤😤😤 https://t.co/71yN1FHwRT
+Love how I was able to setup the status page all from my phone
+Just signed up for @instatus and setup AstraCollab for it!
+Went on a hike and took some photos 😌 https://t.co/HIufEvXko9
+Should I do a listening party space tomorrow for @silksonic new album??? I've waited way too long for this to drop
+I just wanted to go home 😒. Apparently there are protestors on the golden gate and I've been on the bus for almost 2 hours
+https://t.co/QNWSYEw1C0
+Had lunch with @quynhergy. Pleasure to finally meet you in person. Love the work you do at @Twitter https://t.co/ukX6Zr9bF6
+Hot chocolate at 1 am really do hit differently
+Latest school project Going to have fun with this one!
+Using https://t.co/o36hs6pkIj for the first time in conjunction with nextjs and next-auth https://t.co/dvXfFgkpIU
+having an ultra wide is honestly the best thing ever lol https://t.co/9KVDVfzkyI
+So many new pages coming soon! https://t.co/rzDs7ATNF4
+https://t.co/4GXi2gloKz
+https://t.co/rEcQjvlZcB
+This!!! https://t.co/cwCAGIfOOK
+Instagram on light or dark mode. Just trying to prove a point
+Just a few more features and V2 is complete 😌. Anyone want to try it out before it publicly goes live?
+https://t.co/M3t5XW5ykL
+screw it, im selling groovelynk on @microacquire
+This is a nice surprise to wake up to 😌 https://t.co/CssUPvA6jD
+Do you remember when you joined Twitter? I do! #MyTwitterAnniversary https://t.co/ExCo4Uezar
+Small update on astracollab v2. Finished UI for tasks page, next step is the little details like updating tasks etc. 
+
+Really excited for where this is headed https://t.co/9ROTKn0pwU
+Also, I've renamed it from groovelink to groovelynk
+Finally finished a project I've been postponing. A while back I talked about creating a social platform geared towards meeting people based on music taste and I've finally finished it. There's still a lot left, but the working MVP is done and I'll be sharing a demo vid soon!
+Went to apple and Google HQ today and took some photos https://t.co/u3x05kp4ES
+Yo, just learned how to Ollie and rock to fakie in one day 😤 https://t.co/jw0BhPD3xF
+New podcast episode drops tonight
+Next goal is 5k MRR https://t.co/8iYBqmfOhM
+I can officially say I hit 1k MRR 😤😌 https://t.co/7j5q9QmuUy
+Feels weird coming back to twitter after not using it for a while 🤣😅
+I have a new header thanks to @XScoder  😤
+Excited for this project I'm working on with @caveofbeauty
+Hey, how's everyone doing???
+San Francisco Views https://t.co/HFdz2AAbaC
+Some photos from casino night at my school https://t.co/6VR7MtDPyI
+Anyone in San Francisco. Heading there today in a bit
+Bringing back the podcast next week!
+Happy Friday wherever you guys are! https://t.co/BkZOfJGLZt
+Recent school assignment using HTML/CSS/JS. Still a bit buggy, but hey, we'll get there eventually! https://t.co/wLlyD7EjGQ
+I legitimately hate social media. 
+
+I'm scrolling through instagram and low and behold is a spoiler for money heist 😐
+I just ate baby back ribs with a plain white t shirt and didn't make a single stain #newlevelunlocked
+Recreated this using plain old HTML and CSS in my web foundations class and it just reminded me of how much I hate CSS. https://t.co/D7TIyABxRF
+Might actually move to California. Absolutely love it out here
+I bet if I was flying this plane I could follow the yellow line a lot better 😤. See y'all in season 4 of manifest https://t.co/a8b6SE5Q6b
+Slight change of plans. I'll release v2.0 in stages. I'll be starting with the new UI then move on to changing the backend!
+Its a family reunion 😤
+@retromauro @dearkimberlykay
+https://t.co/bs3MS2uZ3j
+https://t.co/bs3MS2uZ3j
+What does one do when there isn't enough luggage to carry all my gear and stuff 😭
+This is a straight mood https://t.co/U4c6KpEnAs
+Quick favor from you guys, if you have a Mac can you try and open my site (https://t.co/R4g6y6Ufno) using safari and click either the "sign in" or "get started" button. 
+
+It's not working on my Mac and want to see if it affects other users as well.
+AHHHHH. Just registered AstraCollab as an LLC. That's how serious I am ab this. 
+
+Also this is a big milestone for me since it's my first company 😤
+[CHIRPBIRDICON] I'M SORRY I HAD TO
+Something I that took my quite some time to learn and still somewhat struggle with is, never sell yourself short!
+
+As a freelancer I would always give out discounts to family members and friends for my services
+
+Give em full price 😤. It's the only way you can grow your business
+What comes first. Eating fries or the burger???
+Some of the things I'm taking with me to Cali for college 😅 https://t.co/5vLl5nXI3i
+How many Arduino's is enough 😭 https://t.co/bBSmB2ieYg
+Putting a project I've been working on into production some time today and I just got hit with the news that almost 5,000 people will be using it. RIP the AWS server 😭
+Happy Sunday everyone! 
+
+Go do something you've always put off doing https://t.co/vrc0kjcYWc
+Making this responsive as an actual pain in the butt https://t.co/zKEJZLyXjW
+Thoughts on https://t.co/cCT6LsmRKA???
+Just gonna repeat it for y'all
+
+Building in public will give you loyal users.
+They'll be attached to your story.
+@debsYJhill Thoughts?
+@ericlewis I left aligned the icons on the left
+Dashboard for v2 of astracollab. Let me know what you guys think! https://t.co/zHCRtN9rQ4
+Some more photos from my vacation https://t.co/HdpO4EddhW
+I'm actually really excited for the new design😤
+Very early sneak peak at the new astracollab design https://t.co/6PuS2KyZr2
+What should come first when building out an application
+Here me out. Light mode on twitter is not that bad 😭
+
+Might kill my battery tho
+Def worth checking out! https://t.co/iNV7wCXk58
+Planning a hackathon in Kenya!
+
+Let me know if anyone is down to help
+Planning on doing a design overhaul with astracollab 
+
+@debsYJhill v2.0 is gonna be even better
+Fav photos from my trip to Austin 
+#Sonya7 https://t.co/vz4OCfiML7
+So close to 1,000 total views on YouTube 😤
+Coffee with #TheCreatorSessions 
+
+@ArtHouse https://t.co/Dm3Brf6alD
+#TheCreatorSessions
+
+https://t.co/zPKyuKBBVG
+I'm sorry but nextjs is absolutely amazing
+Man I've missed using twitter!
+Sooooo. I'm currently rebuilding astracollab so that it runs WAYYY better and smoother.
+
+Using @appwrite_io as the backend!
+Any modeling agencies need a lifestyle photographer 😤 https://t.co/L3Len2kA5T
+Austin, TX ✈️ Newark, NJ
+Austin has been amazing. Sad I have to leave but dw I'll be back! https://t.co/wHIAyJb9I3
+Currently about to go do a photoshoot at a Ferrari dealership. Absolutely stoked!
+Some photos from my vacation https://t.co/OsVSCqs7cA
+Aye. On the way to the airport 
+Birmingham --&gt; Austin
+So is anyone hiring, my college just got shut down https://t.co/GfMRicmH0Y
+Happy Friday everyone!
+Little update on astracollab
+
+- added the ability to make tasks private from clients 
+
+- team accounts coming soon
+So what have I missed?!
+This is what I like to see! https://t.co/aV0ggKzvAT
+Finally picked up the 28-70mm https://t.co/Df07kIO8Vs
+Google CSSI kickoff meeting @googlestudents https://t.co/meiyBR2EPn
+4 hour shoot just for a 30 second video😭
+https://t.co/vHXB3DZkbf https://t.co/hAMeGTy765
+Finally back to uploading to YouTube 😭
+
+https://t.co/fOT1hDTBKk
+So I'm in NYC rn and man am I going to miss it when I go to cali
+Guess I'm done with highschool 😤 https://t.co/MFijQwdDOB
+Still alive just taking a break from twitter again 🤣
+So I accidentally pushed to production without including the frontend code (so only the server was running no website) and I almost had a heart attack 😭
+I temporarily switched https://t.co/K9Wq7GZL6U to light mode for the time being
+Any tips on marketing with a $0 budget???
+2 days after programming with the M1 and so far no complaints. Installing node wasn't too difficult
+Never again will I use an Intel MacBook...
+Just ordered the new m1 macbook pro
+Does this mean we can ban tik tok now 🥱
+#TEAMYOUTUBERS
+just tried ios 15 beta and so far loving it!
+Sadly....no MacBook announcement
+Xcode cloud...🧐🧐🧐
+Google after watching WWDC 😭 https://t.co/B1HPHT82qU
+Don't worry I haven't disappeared, just took a little break 😤
+@dunni_dk
+Hear me out....reply to certain messages in DMs
+So I just hit 51 users. When can I IPO 🤣
+
+@dunni_dk
+A little sneak peek at the invoice form for https://t.co/K9Wq7GZL6U https://t.co/W6EUr1pwV3
+https://t.co/Emu4kPfriC
+One user away from lucky number 50😤
+Here is the current pricing plan for team accounts 
+
+Starter: up to 5 freelancers 
+
+Premium: up to 10 freelancers
+
+Business: up to 15 freelancers
+
+There are other features ofc but the main determining factor is how many freelancers in a team
+Shout-out to the @stripe team for the quickest customer support I've ever seen!
+Feature update!
+
+You can now invoice clients using stripe!
+
+Although it's not built into my platform, the current way I have it implemented will make it easier to build a full in house integration so stay tuned for that!
+Ngl those numbers are satisfying and idk why 😭 https://t.co/PRtiBAcLJF
+AstraCollab update (I forgot what day I'm on 😭)
+
+- I'm planning to redesign the UI for the task page to make all the pieces fit together 
+- team accounts should be live sometime next week!
+Launching the invoice capabilities as well as managing business charges feature tonight or tomorrow stay tuned!
+Ahhh you beat me to it. 
+
+But yeah thanks for all the tips and advice you gave. Currently looking at some project management designs on behance. 
+
+Thanks as well to @ericlewis for stopping by and giving your 2 cents https://t.co/EbUqraq3KQ
+https://t.co/rUhl9CMo9F
+https://t.co/h008SuWO61
+https://t.co/LHJvZ85TCE
+https://t.co/V90fF0XGvo
+
+First public meeting about https://t.co/Emu4kPfriC!
+i’ll be holding a space with @debsYJhill  about UI feedback for astracollab and the next steps i have for the platform!
+@PIC_k_a_CARD_ did I miss any?
+@heybereket did I miss any? If so feel free to add some!
+@shikuwangombe 
+
+Maybe you can add a few to the site in case I missed any
+Here's a little one day build I created using @softr_io 
+
+It's a list of popular nocode tools both free and paid. If you'd like to add to the list hit the "add tool" button at the top!
+
+Don't forget to upvote your favorite ones!
+
+https://t.co/47aZyZFY1H
+Currently building a list of no code tools. feel free to list some of your favorites below!
+Can we like it up, I'm trying to get an ebook 🤣 https://t.co/wvFeEWdeBP
+I feel so excited when a new user signs up 
+
+Is that weird????
+Going to my second ever baseball game
+Any recommendations for any platforms that can create invoices on behalf of freelancers and also being able to payout those freelancers?
+Currently watching the nun and the let's just say I haven't watched a scary movie in years 😅😅😅
+Might actually rest this weekend, while I figure out how I want to implement team accounts for astracollab
+Any recommendations on scaling node.js application running on AWS ec2?
+Finally added pricing model to astracollab! https://t.co/LhWAClHoHL
+I'm doing this because I realized sometimes it's not always about making money. I came out here to build something impactful. 
+
+The best part is right now I'm by myself and I haven't put any money towards it besides buying the domain and it'll continue that way for a while
+So now that astracollab has officially launched, I've made all individual accounts free for life. You get full access to all features right now pretty much forever. 
+
+Now how astracollab make money? Right now it won't not until I implement teams for businesses.
+Late mid day update for astracollab
+
+So far I've gotten 10 signups!
+
+13 upvotes on producthunt, which btw would love support on there https://t.co/xqmmMfjuXy
+Check out https://t.co/BxdKeHsqqd by @d__raptis! ⚡️
+
+The best way to brand your Twitter visual content!
+After talking with @AdamPerschke here are my next steps for astracollab
+
+- All individual freelancers get free full access to astracollab
+- create organization accounts for businesses who have multiple freelancers working with them 
+- charge the organization accounts
+Just had an amazing chat with @AdamPerschke about AstraCollab
+
+Time to restructure my startup!
+Yessir! https://t.co/WZubPDoltJ
+If you're currently a user of astracollab and would love to share your feedback on the platform here, would absolutely appreciate
+As a way to give back tk the first users, the first 50 or so users get free full access for life 
+
+If you love the product feel free to share it with others you feel will benefit from it, and if you don't go ahead and reach out to me and let me know what I can improve on it
+Here's what it does for you and makes your life easier 
+
+- Your clients can get updates on their projects without having to ask 
+- built-in realtime chat
+- task management
+- project deadlines 
+- task deadlines
+- Invite other freelancers
+Hey everyone! 
+
+I think it's time I can finally release what I've been working on for the last month or so. 
+
+For those who don't know or have heard about it, https://t.co/K9Wq7GZL6U is a project management tool for freelancers, built by a freelancer
+What y'all have to say for yourselves
+
+😭😭😭 https://t.co/vQySZFfufl
+Any freelancers out here??? Have an opportunity for you all
+
+DM if interested
+I'm really liking android 12 right now. Much better than 11
+Shout-out to @MakeSchool for paying for my dinner https://t.co/ClYlgUrgbp
+To my fellow devs, what would you choose 
+
+1. A ui feature that jeopardizes performance
+
+2. Remove the UI feature and have higher performance times
+Little tip: that for loop you wrote thinking it won't slow your code down.....it'll slow your code if you don't use it right 🤣
+Astracollab now has 24 users!
+
+Any tips on getting more users on the platform
+Ah so the landing page is done 😁
+@dunni_dk
+Thoughts on this logo design??? https://t.co/UzX79WCMzN
+https://t.co/dvA9KWdR8c
+I've got no clue what else to add to my landing page, anyone have any ideas?
+
+https://t.co/U46dlHwRjV
+Bout to take my first exam of the year
+Lemme tell y'all how tired I am. 
+
+I just took a glass out to pour milk and tell me why I was looking for the glass only to find out I took it out of the cabinet and put it right back
+Day 11 of astracollab
+
+Updates:
+- chat app is fully implemented 
+
+The only thing remaining is the landing page and I can start onboarding more users
+ahhhh. just finished the chat feature. one step closer to launch!
+Black or blue pants??? https://t.co/CqiGjBh1uk
+@dunni_dk right?
+Come on guys, it's a classic
+so b simone and jordyn woods are not the same people.....got it
+As it should be trending!!! https://t.co/UPvGjcQQVO
+https://t.co/1jbCSMp2HF
+Just checked out https://t.co/NuseOQnUN3
+
+and I have say, amazing work man! https://t.co/FQSVYfDXpc
+I can confirm 500 concurrent users will crash the server 😭😭😭
+#genzspace 
+
+My petition
+https://t.co/7RPcftM0aY
+#genzspaces NEVER SETTLE
+Currently rolling out chat feature to select users just to make sure everything is stable
+yolo
+
+ https://t.co/VHPteXT5U9
+If you're a dev
+
+Make sure you check the ID of a user before making changes to their account 😭 https://t.co/7uDjsRSufy
+Oop only 10 away from 600!
+Ooooo I'm excited for this https://t.co/0FmJPMxAS9
+It's almost as if we can still hear her in our hearts https://t.co/I4SVuh1dah
+What have you new skills have you guys so far since quarantine has started??
+
+I'll go first: I learned how to front flip on flat ground without a trampoline!
+Day 9 of building AstraCollab
+
+Updates:
+- User count hasn't increased yet 
+- All server requests require users to be logged in to increase security
+
+Tasks for today:
+- Continue building chat feature 
+- Add email reminders for tasks and projects deadlines
+Can you get funding for your startup if it's registered as an LLC?
+In the end, it all comes down to whether or not you want a cofounder!
+However, the pros outweigh the cons 
+
+To name a few 
+- You get to build it how you want 
+- Full profits 
+- You learn more as you grow the product, such as DevOps etc 
+- no limitations on how you build it
+- work at your own pace
+As much as I'd hate to admit. 
+
+Building a full stack SaaS product by yourself has its cons
+
+Here are my main 2 so far 
+- you handle everything yourself from customer support to marketing to bug fixes 
+- can't bounce ideas with other people since your alone
+Did some math and I might not be able to give away 100 accounts as originally planned, so it's now 50 pro accounts 
+
+13 given away so far and it's all been positive feedback!
+Day 8 of building astracollab
+
+Updates:
+- officially have 13 users now
+
+Tasks
+- work on ways to get new users (if you guys have any ideas, please feel free to reply to this)
+- finish adding micro features
+- finish real-tine chat
+https://t.co/GOcjCwubOy
+100 likes and i’ll do it for astracollab launch https://t.co/iJZugE6uWj
+What's better for growth as a startup
+
+1. Giving away free accounts to the first users 
+2. Everyone pays
+Just pushed security updates for astracollab and for a second I thought I broke the server 😭😭😭
+That explains a lot https://t.co/YMutgzbGXZ
+Turning on subscriptions for astracollab sometime next week, but if you're not already a user you get a free account for life!
+
+DM if interested
+Currently setting up subscriptions for the platform!
+AHHHHH. I'm nearing launch for astracollab 😁
+Alright I'll bite. What's dogecoin
+As anyone here used https://t.co/kOjs7pKQag before?
+Day 7 of building astracollab. 
+
+Tasks 
+- continue to build our chat feature in preparation for launch 
+- hopefully bring on more users
+Just got my 10th user!!!
+Who's going to be lucky number 10
+The****
+If you're reading this right now, I need you to log off right now and go spend time with your mother https://t.co/07m3PMdRld
+Oh? https://t.co/IBuCgiN7kF
+Officially have 9 users on three platform. This is exciting 😎 https://t.co/lSVUBrbmJn
+Officially done fixing bugs (that ik about so far)
+
+What's next, lol watch YouTube or Netflix
+I now officially have 7 users excluding myself
+Just deployed two big fixes
+
+1. Inviting clients 
+2. Mobile view had a few issues with responsiveness
+Thoughts on mobile layout of astracollab?
+
+Personally I love how compact yet everything you need is in one place https://t.co/UkMcZMTqOu
+None*
+Fun building a product ik I'll use on a daily basis
+I think I did this when I had like 300/400 followers can't remember but 
+
+Why did you first follow me, and what made you stay?
+Currently fixing a bug for inviting clients....in the meantime, any freelancers willing to try out the platform?
+it’s crazy how non of my in real life friends know i have a twitter 🤣
+
+and let’s keep it that way 😭
+#TwitterMarketing 
+
+What are some non intrusive ways to promote/market your product/site
+I can confirm that when deleting a project on my platform FULLY DELETES and not even I can bring it back 🤣
+2. Obtain the first 100 users (how...well I haven't figured that part out just yet)
+
+3. After the first 100 and everything runs fine, add subscriptions for new users. First 100 get full access for free forever
+It's always good to have future plans for whatever if is your building, so here are mine for astracollab
+
+1. Build out the three core features  
+- invite clients/other freelancers
+- realtime chat
+- freelance marketplace similar to like fiverr or upwork
+When you realize your site has a bug and you're not home to fix it https://t.co/mg10Mn0P1y
+I absolutely love what the team at appwrite is working on. 
+
+Glad to see it https://t.co/Iawza0S9iA
+So far I've gotten positive feedback 
+
+AHHHHH I'm loving this
+This why I love twitter. 
+
+Thank you so much! https://t.co/jWTX9zPOEN
+Are there any good privacy policy builders?
+Just curious, any other freelancers interested in trying my project management site?
+@shikuwangombe any other recommendations??
+It doesn't take much to make your first product. Start with the resources you have. If you don't know how to code there are bunch of no-code tools 
+
+@bubble a popular one
+So I launched my first SaaS and the only expenses to launch was purchasing a domain. 
+
+Resources used:
+- AWS ec2
+- AWS route53
+- GoDaddy
+Become a developer they said.... it'll be fun they said
+Good to see the site is back online!!! https://t.co/cDr9tghNXY
+Day 5 of building AstraCollab
+
+Updates:
+- I finally managed to get the production server working with no issues 
+- Disabled autoscaling so I dont find a bill of $400 if the site gets a lot of traffic 🤣
+
+Next Steps:
+- Work on onboarding users 2-4 
+- Implement OAuth
+I usually like AWS but OMGGGG I'm never using cloudfront again
+You already know. I may not have been impactful in terms of hosting spaces 
+
+But if you ever had an issue or bug I'm always on it! https://t.co/tQhFztx3Ep
+After 14 hours I finally have it up and running https://t.co/SoilNETHJx
+Anyone good with @AWS  cloudfront is giving me issues rn https://t.co/jwmHUUv2tB
+Would be nice!!! https://t.co/LrDIJlKIM1
+LMAOOO it broke/crashed 
+
+Fun times out here https://t.co/jwmHUUv2tB
+My MRR has now increased from $0 to $1 
+
+Baby steps
+Just bought https://t.co/Emu4kPfriC https://t.co/kLn4DUiVIB
+https://t.co/tBzDxCMsXC
+https://t.co/kmdPJ6aLQr
+https://t.co/0H43RvqvU2
+
+looking kinda lonely here
+https://t.co/0H43RvqvU2
+🖥🖥🖥
+
+ https://t.co/0H43RvqvU2
+Day 4 of building AstraCollab
+
+- I've gotten some feedback from my first user and I'm now working on fixing a few things they mentioned
+
+- hopefully onboard the second user!
+https://t.co/NNZ6ku3kZD
+3,180 lines of code and stable release v0.1 of AstraCollab has been deployed 
+
+Now we wait and see how long until it breaks 🤣
+https://t.co/0x6ApfZfwC
+
+I don't think a space has made me cry 
+
+Man this funny as what 😭😭😭
+Side girl = being called babygirl
+
+Know your place 🤣🤣🤣
+
+@DerekIsNormal
+https://t.co/0x6ApfZfwC
+LMAO this is why I love spaces.
+https://t.co/0x6ApfZfwC
+
+This makes the number one spot for funniest spaces 
+
+@DerekIsNormal
+Not being able****
+Well my day was just ruined 
+
+Someone bough https://t.co/v1i9JR0HdX as soon as I was going to buy it 😤
+Using this method to gain traction for AstraCollab https://t.co/TKTgmvN8TH
+LOL I was talking mad smack about not being to receive tips on my podcast 
+
+My bad twitter we don't got beef no more
+So I can receive tips now... https://t.co/o0jQlp93ZT
+https://t.co/aYnjOj1SJK
+https://t.co/aYnjOj1SJK
+
+get the chance to listen to my podcast live
+Gonna host today's podcast on Spaces so y'all get to hear it first!
+Excited to see all my twitter friends with tip jar 
+
+But me and twitter gonna have beef if I don't get mine
+Day 3 of building AstraCollab
+
+- I can now officially say I have my first user on the platform!
+
+- Working on changing the freelancer signup flow to accommodate differentiating between a freelancer and a client
+
+- working on making the experience for inviting clients cleaner
+https://t.co/8gzTgimLAZ
+
+Chill vibes
+https://t.co/8gzTgimLAZ
+hehe my most liked tweet https://t.co/GIUqURh4AZ
+The end. /End
+Everyone always asks me "oh how did you grow your twitter account so quickly" or like " what are your secrets" 
+
+So here's a thread on how I grew my account from 539-540 followers in 1 month. Thread 🧵
+https://t.co/gaehrWAi9K
+
+Cause why no
+Tell me you like dunkin without telling me you like dunkin https://t.co/BYDBd852WU
+https://t.co/CfpgkzDx59
+Day 2 end of day update (sort of):
+
+- I'm planning to name the platform "AstraCollab"
+- Freelancers can now invite clients 
+- I disabled inviting freelancers to keep things simple for now 
+- Clients can now accept or decline project invites from freelancers
+Who says I'm not 37???? https://t.co/39xxtfmFGw
+Make sure to check up on your twitter friends!
+
+Hey twitter friends how's everyone doing
+For a second I thought my phone was broken 😔 https://t.co/eEmn2yzNuW
+Lol let me wake up to a 20k subscription and I'll never be the same again 😭 https://t.co/B8iOIIj0vp
+@debsYJhill
+What's a better name for a collaboration platform
+
+(There was a typo with the old poll)
+It's astra not astara****
+I would really love to onboard the first user sometime this week or next week and see what other features to add/improve 
+
+If you're down simply reply to this or DM me
+What sets my platform apart is the relationship between the freelancer and the client. A key feature in development is a real-time chat that removes the need to give out personal info to communicate. 
+
+Clients can also view the status of projects without asking "is it done"
+If you're a freelancer who currently doesn't use a project management tool, I'd love to offer mine. It is still in the early stages so it may not be able to compete with the other larger platforms JUST YET, but it will get there.
+
+In return, you get full access for free forever
+Here's a short little sneak peek at the freelancer platform!
+
+Im giving away the first 100 users full access forever as sort of a founders reward https://t.co/jZ83UZcpM5
+If you're not using javascript to code, why code at all? https://t.co/c5LrX72lff
+When my platform officially goes public I'll be updating my banner monthly to document MRR 😁
+If any VC's follow me, im just wondering, does your SaaS product need to be registered as a company to receive funding.
+
+PS.
+
+New to all this so I've got no clue how VC's work
+Day 2 of building my freelancer platform in public:
+
+Yesterday I spent the day refactoring code to make it cleaner and run smoother
+
+Today's task:
+- Finishing adding client routes 
+- test all routes 
+- MAYBE start on the realtime chat page
+LOWKEY might start offering web hosting services and make it free for high school students
+I'm currently in a space right now and OMG it's crazy how much knowledge you don't know about when it comes to computer science
+Now that twitter spaces is public should i remove it from my bio?
+Hopefully my journey is like this as well. 
+
+Documenting my journey from $0 MRR to my first $100 MRR and so forth! https://t.co/mXQHAyYTcP
+What would you say is a reasonable price to pay for web hosting?
+My boy fresh with it!!! https://t.co/zkt8WXhruO
+Day 1:
+
+Tasks for today:
+- setup client routes
+- prevent client from accessing freelancer routes 
+- enable client invite links
+@suiteasdesign 
+
+A thread you might be interested in when you have the time
+5/ what's the key takeaway from all this....take the time to really understand what it is your writing, it's purpose, and different ways to write what it does but with the same results. 
+
+And use google, don't be afraid to look things up, that's how you learn and grow!
+4/ and Promise.all() since I needed an asynchronous function to retrieve user profile images 
+
+When I implemented the new code runtime dropped go around 300 ms to 500ms which is a significant change and data was loaded almost instantly on the frontend
+3/ when I noticed how long it took to load data, I was like "Ayo this is too long for customers 🤣" so I went to the backend code and tried to figure ways to make it more efficient. 
+
+That's when I came up with the idea to use a combination of https://t.co/Lk9jJcaU2Q
+2/ In my backend api I had an endpoint that would iterate through an array using nested loops since multiple arrays coexistent within that one array. 
+
+When the api was called from the frontend the response time was anywhere from 1.5 seconds to 2.5
+Yesterday I think I finally realized what it means to write code and write efficient code. 
+
+The main difference is one is focused on time it takes to compile, etc while the other is a more broad term. 
+
+Here's how I came to the realization. Thread 🧵 1/
+Success doesn't happen over night. It takes time. 
+
+You also have to allow yourself to make mistakes, that's how you grow!
+Day 0 end of day update:
+
+Just rebuilt the task management page for the site working on deploying the code now
+it’s been a while since i’ve hosted a space
+Should I do a founders reward for the first 100 people or more? Or less?
+If snapchat doesn't give me this feature we're gonna a real problem. It's the only app I use that doesn't have dark mode https://t.co/vrOoZpBp8P
+One thing I learned when it comes to building a product is constant innovation. 
+
+Today I didn't like the feel and look of a certain page for a platform I'm building. Although it works fine, it's very buggy and the user experience as mediocre, so I decided to rip it apart
+I'm starting a new series where I log what I'm working on in regards to the freelance platform
+Day 0 of my freelance platform:
+
+I haven't publicly released the url but I do have 1 user beta testing it out for me
+
+Today's tasks:
+- Redo the tasks page since it's very buggy
+- restructure backend code to accommodate frontend changes 
+- hopefully onboard another user
+LOL 50/50 https://t.co/cOMS4lBbBc
+If you're a freelancer would you be so kind to either DM or reply to this
+@Billy_Ruecker 
+
+You seem to know a lot of people 🤣. Do you happen to know anyone in marketing or have any tips yourself?
+Hey #twittermarketing,
+
+I'm like terrible at marketing products I build, but I am amazing at building said products. Any tips on how to bring users on a platform???
+React tip::
+
+If you don't want to use redux or mobx because of its complexity I recommend using https://t.co/pao4hXbv8z. It's lightweight and easy to get started with!
+
+@recoiljs
+Ok so the site the is live BUT it's on a different url name than intended. Should I wait until I change tomorrow???
+I've fixed all the bugs with my MVP and I'm setting up user authentication on the production server right now. Aim is to have the site live by 12 midnight, so exactly one hour from now
+I'm now fully vaccinated 😤😤😤
+I promised myself I wouldn't tweet this but here I am 😭😭😭
+
+When you hit that spot with a qtip:
+
+(Btw that's me when I was younger😭😭) https://t.co/B10TmieM2f
+Hey freelancers!,
+
+Do you have trouble keep track of all your projects? What are some of your biggest issues right now?
+So I'm moving the launch to tomorrow because my code at a bug which I thought I fixed yesterday 😭. 
+
+Anyway I just finished, so I'll work on deployment tomorrow! https://t.co/sGbkzzt3Al
+Just a couple of hours until I launch my first MVP!!! https://t.co/fjL5JE3d1V
+I plan to launch my like real first MVP tomorrow
+I FEEL SO RELIEVED RIGHT NOW
+
+I just spent the last 2 days trying to fix a bug and it feels so good knowing I figured it out 😭
+Just finished rewriting 300+ lines of code because my computer decided to restart and I hadn't saved the file 😐😐😐
+HAPPY BIRTHDAY! https://t.co/2CvIdwhzjS
+Just finished building the home page of my new platform for freelancers 
+
+What I learned so far:
+- I still strongly dislike css 
+- I don't know how to center align 🤣
+- Always save your files (one file got deleted after my computer restarted)
+Thanks to twitters beautiful algorithm. I found out about @FlurlyApp and set up my first **personal** e-commerce site. 
+
+Didn't have time to code it from scratch so I made one in seconds using this platform and have had no issues with it since then https://t.co/mXKotePTMw
+Humans
+
+Take notes https://t.co/ZbnT4baWZ7
+V1.07 is out now!
+
+As always, I'll hunt you down if you haven't watched the previous episodes ;)
+
+https://t.co/QMlRJNotX7
+
+https://t.co/vjvVTT3iB1
+Update: 
+
+Just hit 100 total plays https://t.co/65bSFu5c7t https://t.co/oaQlT2utW9
+Just got my first monthly subscriber for my Podcast and I'm like in shock but excited at the same time!
+
+https://t.co/Zc5eMx0WzF
+Went from 2 followers to 500 in just 3 and half months. I'm proud of myself 
+
+I did this when I hit 100 followers and I just hit another milestone, so dor those following me, why did you follow me???
+2 minions away from 500 minions
+3 minions away from 500 minions
+For y'all who don't know....this man right here is a legend! https://t.co/qFQAOEf4Cv
+5...5 minions away from 500
+What's the best way to stress test https://t.co/fYgJKoFV6J running on an express server?
+Just setup my first raspberry pi cluster
+
+Right now it's only two nodes but I plan to expand soon
+
+This is what I'm running on the servers
+https://t.co/clp5FiihOx
+https://t.co/hANuqFoOb9
+
+Knockout in under 1 min???
+javascript is the way to life. 
+
+its the only way to life https://t.co/0XHV4KucSx
+10 away from 500 minions!!!
+https://t.co/K96isRlcRV
+
+@angeliquesocial 
+
+App crashed
+https://t.co/pYTAxOARXV
+Currently 9 listens away from hitting 100 total plays on my podcast https://t.co/QQA4ydiUYl
+Listen to "V1.06 - Do Pitches actually get stitches? " by The Source Code. ⚓ https://t.co/FBbP7GRRqb
+Come hang with us during our post podcast hours!
+https://t.co/QHI3PYE2cG
+https://t.co/QHI3PYE2cG
+
+We started!
+https://t.co/QHI3PYE2cG
+@Billy_Ruecker 
+@fbourdeau 
+Maybe you guys might be interested in joining
+20 MINS!
+
+Live podcast on Spaces 
+
+Topic: Spaces vs clubhouse vs discord
+@PIC_k_a_CARD_
+30 mins until my live podcast!!!
+
+Topic: Spaces vs clubhouse vs discord
+Finally routed my chat app to the proper url 
+
+https://t.co/clp5FizTd7
+Same here. I've never paid for a single course or taken a class https://t.co/j4uXTsobTq
+3 and half hours to go!!! https://t.co/vvykU2p5bw
+https://t.co/eUc5mQF8NP
+
+Music and Vibes
+The real question is
+
+Do I run my servers on my raspberry pi????
+ORRRR do I run them on aws and pay?
+I went to go look for my raspberry pi thinking I only 2. Turns out I have 3 😭😭😭
+
+Far right is a raspberry pi 4 
+Middle and far left are raspberry pi 3 https://t.co/tOfaM2wvx8
+Doing my podcast live on twitter spaces  tomorrow at 8 PM EST
+
+Topic: Spaces vs. Clubhouse vs. Discord 
+
+Hope to see you all there!
+https://t.co/ol7XE5jexC
+Just got approved for my first credit card let's go!😤
+List of things adding to my resume 
+- wearing nice only half of my body and up
+- zoom
+- master fx (zoom green screen)
+- https://t.co/wBQxpEFl3L
+Just finished another one day build
+
+This is my personal app I made using 0 lines of code 
+
+@Bravostudioapp uses your figma and adobe xd files and turns them into a mobile app
+
+@PIC_k_a_CARD_ for putting me on 
+
+@nickjmauro might want to check it out! https://t.co/rJDo2qt0eM
+Lmao biggest flex of the century https://t.co/bFpgZAt91h
+@nickjmauro ik it's not done but thoughts so far?
+No where near done but here's a sneak peak at my mobile portfolio app 
+
+@PIC_k_a_CARD_ for the inspiration https://t.co/UDgeJQTeNP
+Bout to do this for my app as well! https://t.co/Ie0om54JkB
+Me my entire life 😭 https://t.co/pY7edZRi1M
+Literally love how open and public the twitter team is. Keep up the amazing work! https://t.co/ZJR8pvPoGy
+Who would have thought twitter would put my in a mood
+
+@bes_ofthebest I blame you for this 😭 https://t.co/vfqtrfjMzP
+Lol imagine typescript but for css 🤣
+Circle 3 (cont.)
+@CM_Kyla
+@NotionFlows
+@TwitterSpaces
+@MeetKevo
+Circle 3
+@SankethYS
+@MorganUMedia
+@swatato
+@EatLiquidGold
+@AprilynneA
+@yadavajay
+@shoshanakaliski
+@aaditsh
+@sandracolton
+@rPathak_
+@jeeveswilliams
+@kobeurameshi
+@sadlyoddisfying
+@jagnaudh
+@ece_minaa
+@scholz_felix
+@caveofbeauty
+@benawad
+@jawss
+@runwanderwonder
+@JamesonCamp
+@ejmudi
+Circle 2
+@suiteasdesign
+@skuurstra
+@AcousticWisdom
+@fbourdeau
+@debsYJhill
+@reeshahoward
+@damengchen
+@xDAMELIOx
+@rawkettk
+@bluehost
+@BrittaniWarrick
+@garethmcc
+@meydjer
+@ayyynne
+@HeyGoAudio
+Circle 1
+@Billy_Ruecker
+@PIC_k_a_CARD_
+@dylan_balagtas
+@bes_ofthebest
+@nickjmauro
+@heybereket
+@HelloKrystalWu
+@dearkimberlykay
+Don't think there's anything more accurate than this 😭😭😭 https://t.co/Ac0aNTydtk
+Ok so I know for april fool's I said I was hiring an intern but now I am lol. Well my team and I, and I'm like really excited!
+Someone decided to trigger the smoke detectors and as a result woke me up https://t.co/Qp65I0pspP
+🤣🤣🤣🤣
+Will be hosting a live soon so stay tuned! https://t.co/cXoQqdAp0J
+BRUH TWITTER WILD 😭😭😭 https://t.co/15XqLRMgKl
+Just got first dose hehe
+https://t.co/cmnTrQJswZ
+
+Waiting in line for the vaccine 😁
+Currently on the way to get my vaccine 😎😤
+I will hunt you down if you don't listen to today's episode
+
+jk jk but seriously though take a listen 😅
+
+Spotify: https://t.co/4F4IoyvJMQ
+Anyone keeping secrets from me????? https://t.co/KtDE5VJ1Oe
+https://t.co/9LHypHxPHa
+
+Guess who's back!!!
+My podcast if you want to hear other episodes 
+
+https://t.co/mfvfaebdNn
+Episode of my podcast to clarify*
+@nickjmauro @dearkimberlykay @23box_ @AcousticWisdom @reeshahoward @MrDre_ @suiteasdesign @kobeurameshi @fbourdeau @shoshanakaliski @CardozaGab @rPathak_ @SanyaJeet @IssaKhari @
+I need to have everyone I've met with from twitter spaces on an episode 
+
+Ok maybe not everyone but like a good number
+@PIC_k_a_CARD_ let's become tik tok stars to help fund @_Clava_App
+Tik tok mad weird when uploading videos lol
+
+https://t.co/Tf3jx0Gn9l
+Hehe got approved for @PODGOco for my podcast!!
+@dylan_balagtas 
+
+Think you can give feedback on the UI for selecting rooms?
+Just pushed update 3
+
+https://t.co/zOcx7Lz6ql
+
+- You can now join different rooms. 
+- online users indicator for individual rooms 
+- changed url name
+
+Next update: 
+- custom rooms 
+- buy discord 😤
+Just pushed update 2 of my chat application
+
+https://t.co/xmHhpNA5Ji 
+
+Next updates:
+- Different rooms 
+- world domination
+Lemme save this for when I start writing essays 🤣 https://t.co/MawYIgu0sZ
+This speaks volume 
+
+Say it louder for those in the back https://t.co/3PT55dP9vP
+Thoughts?
+@meydjer @ece_minaa @BlakDance @Billy_Ruecker @sdiazca 
+
+Thoughts?
+@PIC_k_a_CARD_ @suiteasdesign @heybereket @dylan_balagtas
+Fun little one day build I made using react, express, and https://t.co/fYgJKookfb
+
+https://t.co/xmHhpNA5Ji
+
+Next steps:
+- username input
+- different group chats
+- take over slack and discord 😤
+AYE LETS GO https://t.co/PC7JWmbt3x
+This wins idc https://t.co/h00ExxYoGK
+What am I getting myself into 😭
+Just heard about sailsjs and I'm literally thinking about rebuilding all my projects and MVP's with it
+Which one sounds better 
+
+https://t.co/wi4XuDAwSH
+https://t.co/aaUcXB1G7h
+Literally me 😭 https://t.co/WL0iXeAk1H
+Servers been up for 7 days without crashing 😤
+You'll be able to use the platform I'm building now that you switched to spotify https://t.co/FYLKiXLPSK
+OMGGG ok so I don't usually talk about my photography side as much on here but I finally made my lightroom presets available for purchase!
+
+https://t.co/udjVyMvXqu
+Now that I'm 18 any recommendations of which credit card I should get?
+My instagram filters are popping 😤 https://t.co/WA0wRaHzgb
+I went ice skating today and OMGGG I side swiped my friend as I was falling myself 
+
+@thehairguymc
+My website is back to normal
+Listen to "V1.04 - Can you handle the SAAS?". ⚓ https://t.co/KmSC3815Hn
+Happy birthday to me 🥳🎂🎊🎊🪅 https://t.co/B8WqXbj4Vj
+Maybe @heybereket could be my first intern???
+@nickjmauro @dearkimberlykay @23box_ 
+This is why I've gone completly MIA
+
+But I'm back now
+GOAL 1 OF MY BUCKET LIST COMPLETED
+
+For the past couple of weeks I've been working on my startup and part of the reason why I haven't been on twitter spaces as much. 
+Well I'm finally hiring my first intern!
+
+TO APPLY AND LEARN MORE: https://t.co/6H2BSeeTyO
+Literally happened to me today https://t.co/C7FgmQi3rO
+Instead of choosing between slack and discord I decided I'm just going to make my own internal communication site 😤
+Get into stanford, then drop out... Got it! 😁 https://t.co/0RhnyWABNZ
+Hear me out.....500 followers would be a nice birthday gift. 😁 (This Friday btw)
+
+#RT
+Lmao so I've been playing piano for around 9+ years and my friend posted a video of them singing. As like a tip I told them to try a lower key because I know they can sing and the current key was too high 
+
+...they ended up blocking me
+
+#petty https://t.co/1KPiTV5tc7
+I just shut my computer and leave https://t.co/R2XSZ2XGnB
+My Brithday is in 2 days and I'm now where near excited. Mind you I turn 18
+Throw***
+If your VS Code theme is this bright...block me right now and through your computer out the window 
+
+**This screenshot is for demo purposes only and does not resemble who I am as a coder and human being** https://t.co/x4yOxaDhFL
+Bro watching silicon valley has made me want to make a decentralized network for no reason 😭
+Day 2 until the queen @dionnewarwick follows back 😤 https://t.co/uk7QC3wZTm
+Literally saw a tweet where they were joking about LinkedIn creating something like this 😭 https://t.co/mBhIsx16wV
+3 days and I'm 18 https://t.co/SxAPdvz4Py
+Might go @goserverless 
+
+Let's see how things go
+Crunch time now 😤
+
+Glad to be apart of the team https://t.co/ZL5rMPPw5g
+Might be using @ClerkDev for all my user auth. Let's see how things go
+Things I accomplished today
+
+- deployed my newsletter site 
+- deployed site for a side project im working 
+- finished 4 seasons of silicon valley
+
+Goodnight twitter
+I'm holding off on live streaming podcast episodes for now. Until then, feel free to listen on spotify or apple podcast
+This is what I love seeing. Congrats on your new journey! https://t.co/CysIy4W3X9
+I tagged the wrong spaces account lmao
+
+@TwitterSpaces
+I'm just gonna stick to coding
+Never again am I doing that again
+Never doing this again, but thank you to every one of you (if I missed you thank you as well). 
+
+I love the community that has come from spaces. Anyway carry on with your evening!
+@shortcreekfolk 
+@OnAirWithRick 
+@MargaretMolloy 
+@coreymlong 
+@ayyynne 
+@swatato 
+@ctwtn 
+@MorganUMedia 
+@RJCity1 
+@ActivistSharky 
+@sharkyrae 
+@jonasstreule 
+@WarrenWhitlock 
+@joshuamauldin 
+@Brianmbunde
+@radda_count_a_m 
+@Lesedi_Venter 
+@fbourdeau 
+@debsYJhill 
+@PhilipOgola 
+@HeyGoAudio 
+@IAMSHE6 
+@Billy_Ruecker 
+@RichWinters 
+@bborrman 
+@Emma_Stilllookn 
+@jeeveswilliams 
+@MikeElgan 
+@nima_owji 
+@rawkettk 
+@FreddyRoosevelt 
+@JRemyHdz 
+@ChrisBivins 
+@Ward2Harris 
+@BinocleGlobal
+@heyamandabrown 
+@jawss 
+@AnthonyQuintano 
+@jamiepine 
+@heyGuhRL 
+@KurtStadelman 
+@markusfrieske 
+@sandracolton 
+@nikkastar 
+@nikkiLynette 
+@KillfearNY 
+@msmitchell357 
+@MindfulSkeptics 
+@Lance_Troh 
+@SanyaJeet 
+@____Hoban 
+@sarb 
+@krlwytt 
+@JacDerric 
+@willdepue
+@spoken 
+@kobeurameshi 
+@Blake_S_Davis 
+@rPathak_ 
+@Jannah_Bee 
+@ericlewis 
+@mariadlzollo 
+@MadalynSklar 
+@reeshahoward 
+@CotiHowell 
+@RebtznUnplugged 
+@sdiazca 
+@CardozaGab 
+@TonsOfFun111 
+@KateTalbot2 
+@NickEllis 
+@KevinJHill 
+@that 
+@TerrillCharming 
+@yewiedewie 
+@nerd_fswd
+@scottishghostuk 
+@fontburger 
+@OluyomiOjo 
+@rxced_ 
+@tuanstpatricktv 
+@AcousticWisdom 
+@dearkimberlykay 
+@suiteasdesign 
+@Kevin_Healey 
+@joeysquares 
+@audaciousindian 
+@megancjack 
+@dordio 
+@RobButler 
+@JuleahKaliski 
+@UrbanAstroNYC 
+@PhilanthropyGal 
+@Ileane 
+@quynhergy
+@1god 
+@realTadiAbedje 
+@shmalessia 
+@T_Hallthe1st 
+@mvg512 
+@MichaelMuni 
+@AndamoHondo 
+@IssaKhari 
+@pcallowv 
+@BillMoore20 
+@nickjmauro 
+@Mimisu7 
+@23box_ 
+@moriartyparty 
+@reDDakteur 
+@MrDre_ 
+@shoshanakaliski 
+@themargaritam 
+@jagnaudh 
+@ItsJeffHiggins 
+@thewilliamgold
+I'm probably going to regret this later but I might as well do it now. 
+
+I started using twitter after I found out about @spacesradar. This thread is going to dedicate EVERY single person I've met through spaces
+Newsletter had a small bug but it's all good for mobile and laptop!
+
+https://t.co/qBy1RBd6Ot
+@Billy_Ruecker @suiteasdesign
+I present to you my very own newsletter! 
+
+Wanted to create a non invasive newsletter, and so once a month you'll get the newest startup and latest tech news
+
+https://t.co/G0YKLs1nsf
+I dedicate the next 365 days to reply to this tweet everyday until @dionnewarwick follows back 😤
+If you have a community and want to find a way to monetize off of it without jeopardizing a lot, I highly recommend checking out clava. 
+
+I absolutely love working with the team there and taking social interaction to a whole new level https://t.co/RWt6sx2t5q
+Any small time artists looking to help out on a platform I'm building?
