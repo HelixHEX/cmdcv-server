@@ -13,7 +13,7 @@ const express_rate_limit_1 = __importDefault(require("express-rate-limit"));
 const main = () => {
     const app = (0, express_1.default)();
     const limiter = (0, express_rate_limit_1.default)({
-        windowMs: 10 * 60 * 1000,
+        windowMs: 5 * 60 * 1000,
         max: 3,
         standardHeaders: true,
         legacyHeaders: false,
