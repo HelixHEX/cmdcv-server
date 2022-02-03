@@ -26,7 +26,7 @@ router.get("/", async (req: express.Request, res: express.Response) => {
               (object) => object.Key === `${username}.txt`
             );
             if (found) {
-              const fileStream = s3Client
+              const fileStream = await s3Client
                 .getObject(
                   {
                     Bucket: process.env.AWS_BUCKET_NAME,
@@ -72,9 +72,9 @@ router.get("/", async (req: express.Request, res: express.Response) => {
                 uploadParams.Body = fileStream;
                 uploadParams.Key = path.basename(`${username}.txt`);
 
-                await s3Client.upload(uploadParams, (err: any) => {
+                await s3Client.upload(uploadParams, async (err:any) => {
                   if (err) throw err;
-                  const fileStream = s3Client
+                  const fileStream = await s3Client
                     .getObject(
                       {
                         Bucket: process.env.AWS_BUCKET_NAME,

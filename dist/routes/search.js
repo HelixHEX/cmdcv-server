@@ -41,7 +41,7 @@ router.get("/", (req, res) => __awaiter(void 0, void 0, void 0, function* () {
                 if (objects && objects.Contents) {
                     let found = objects.Contents.find((object) => object.Key === `${username}.txt`);
                     if (found) {
-                        const fileStream = s3Client
+                        const fileStream = yield s3Client
                             .getObject({
                             Bucket: process.env.AWS_BUCKET_NAME,
                             Key: `${username}.txt`,
@@ -93,10 +93,10 @@ router.get("/", (req, res) => __awaiter(void 0, void 0, void 0, function* () {
                             };
                             uploadParams.Body = fileStream;
                             uploadParams.Key = path_1.default.basename(`${username}.txt`);
-                            yield s3Client.upload(uploadParams, (err) => {
+                            yield s3Client.upload(uploadParams, (err) => __awaiter(void 0, void 0, void 0, function* () {
                                 if (err)
                                     throw err;
-                                const fileStream = s3Client
+                                const fileStream = yield s3Client
                                     .getObject({
                                     Bucket: process.env.AWS_BUCKET_NAME,
                                     Key: `${username}.txt`,
@@ -106,7 +106,7 @@ router.get("/", (req, res) => __awaiter(void 0, void 0, void 0, function* () {
                                 })
                                     .createReadStream();
                                 fileStream.pipe(res);
-                            });
+                            }));
                         }));
                     }
                 }
