@@ -15,7 +15,7 @@ const main = () => {
     app.use(cors({ origin: "*" }));
     const limiter = (0, express_rate_limit_1.default)({
         windowMs: 5 * 60 * 1000,
-        max: 3,
+        max: 10,
         standardHeaders: true,
         legacyHeaders: false,
         message: { success: false, message: 'Too many requests, please try again later.' }
@@ -27,9 +27,6 @@ const main = () => {
         res.send("Hello world");
     });
     app.use("/api/v1/search", search);
-    app.use((_, res) => {
-        res.status(404).json({ status: "404" });
-    });
     app.listen(process.env.PORT || 5001, () => {
         console.log(`🚀 Server ready at http://localhost:${process.env.PORT}`);
     });

@@ -12,13 +12,13 @@ const search = require('./routes/search')
 import rateLimit from 'express-rate-limit'
 
 const main = () => {
-  const app = express();
+  const app = express(); 
   
   app.use(cors({ origin: "*" }));
 
   const limiter = rateLimit({
-    windowMs: 5 * 60 * 1000, // 15 minutes
-    max: 3, // Limit each IP to 100 requests per `window` (here, per 15 minutes)
+    windowMs: 5 * 60 * 1000, // 5 minutes
+    max: 10, // Limit each IP to 100 requests per `window` (here, per 15 minutes)
     standardHeaders: true, // Return rate limit info in the `RateLimit-*` headers
     legacyHeaders: false, // Disable the `X-RateLimit-*` headers,
     message: {success: false, message: 'Too many requests, please try again later.'}
@@ -35,10 +35,9 @@ const main = () => {
   });
 
   app.use("/api/v1/search", search);
-
-  app.use((_, res: express.Response) => {
-    res.status(404).json({ status: "404" });
-  });
+  // app.use((_, res: express.Response) => {
+  //   res.status(404).json({ status: "404" });
+  // });
 
   app.listen(process.env.PORT || 5001, () => {
     console.log(`🚀 Server ready at http://localhost:${process.env.PORT}`);

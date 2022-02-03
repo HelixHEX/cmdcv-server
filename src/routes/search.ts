@@ -3,16 +3,11 @@ import TwitterApi from "twitter-api-v2";
 import path from "path";
 import AWS from "aws-sdk";
 
-const router = express.Router();
 const fs = require("fs");
-// const multer = require("multer");
+const router = express.Router();
 
 const twitterClient = new TwitterApi(process.env.TWITTER_BEARER_TOKEN);
 const s3Client = new AWS.S3({ region: process.env.AWS_BUCKET_REGION });
-
-// router.get('/',  (req, res) => {
-//   res.json({success: true, url: 'hisdf'})
-// })
 
 router.get("/", async (req: express.Request, res: express.Response) => {
   const { query } = req;
@@ -44,7 +39,6 @@ router.get("/", async (req: express.Request, res: express.Response) => {
                 .createReadStream();
               fileStream.pipe(res);
             } else {
-          
               let timeline = await twitterClient.v2.userTimeline(user.data.id, {
                 exclude: ["replies", "retweets"],
                 expansions: [
@@ -57,7 +51,7 @@ router.get("/", async (req: express.Request, res: express.Response) => {
               let formated_tweets = "";
 
               for await (const tweet of timeline) {
-                formated_tweets += `${tweet.text}\n`
+                formated_tweets += `${tweet.text}\n`;
               }
 
               fs.writeFile(file_path, formated_tweets, async (err: any) => {
@@ -98,55 +92,6 @@ router.get("/", async (req: express.Request, res: express.Response) => {
           }
         }
       );
-
-      // if (!fs.existsSync("./uploads")) {
-      //   console.log("no directory");
-      //   fs.mkdirSync("./uploads", { recursive: true });
-      // }
-      // if (!fs.existsSync(file_path)) {
-      //   console.log("no file");
-      //   await twitterClient.v2
-      //     .userTimeline(user.data.id, {
-      //       exclude: ["replies", "retweets"],
-      //     })
-      //     .then((response) => {
-      //       all_tweets = response.data.data;
-      //       let formated_tweets = "";
-      //       all_tweets.forEach(
-      //         (tweet: any) => (formated_tweets += `${tweet.text}\n`)
-      //       );
-
-      //       fs.writeFile(file_path, formated_tweets, function (err: any) {
-      //         if (err) throw err;
-      //         const filePath = path.resolve(".", file_path);
-      //         const fileBufer = fs.readFileSync(filePath);
-      //         res.setHeader("Content-Type", "text/plain");
-      //         res.status(200).send(fileBufer);
-      //       })
-      //     });
-
-      //   // while (!timeline.done) {
-      //   //   let fetchedTweets = await timeline.fetchNext()
-      //   //   all_tweets.push(fetchedTweets.data.data)
-      //   // }
-
-      //   // res.json({ success: true, tweets: all_tweets }).status(200);
-      // } else {
-      //   const filePath = path.resolve(".", file_path);
-      //   const fileBufer = fs.readFileSync(filePath);
-      //   res.setHeader("Content-Type", "text/plain");
-      //   res.status(200).send(fileBufer);
-      // }
-      // let interval = setInterval(() => {
-      //   const filePath = path.resolve(".", file_path);
-      //   const fileExists = fs.existsSync(filePath);
-
-      //   if (fileExists) {
-      //     clearInterval(interval)
-      //   }
-      // }, 2000)
-
-      // res.status(200);
     } else {
       res.json({ success: false, message: "User not found" }).status(404);
     }
